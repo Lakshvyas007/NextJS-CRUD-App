@@ -13,7 +13,7 @@ const Footer = () => {
           className={styles.logo}
           alt="Deorwine_Infotech"
         />
-        ©2023 Deorwine_Infotech. All rights reserved.
+        ©2023 NextJS_Infotech. All rights reserved.
       </div>
 
       <div className={styles.social}>
